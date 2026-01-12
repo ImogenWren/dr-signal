@@ -1,6 +1,9 @@
 # dr-signal
 Spin out project from electrolysisMachine, small current (0-20mA) source and meter for PLC/industrial system debugging &amp; testing
 
+<img width="1252" height="1028" alt="387247913-5acca359-772f-4544-8e65-be09f5d36002" src="https://github.com/user-attachments/assets/d491c50a-6f13-4eed-be16-f9073be57452" />
+
+
 
 <img width="1296" height="418" alt="387308068-fd00f59e-8803-4c10-aa2e-3f1c3e7ed494" src="https://github.com/user-attachments/assets/d2731d29-e1be-4a69-991c-008fa7b477fb" />
 
