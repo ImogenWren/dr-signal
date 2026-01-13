@@ -1,6 +1,23 @@
 # dr-signal
 Spin out project from electrolysisMachine, small current (0-20mA) source and meter for PLC/industrial system debugging &amp; testing
 
+## miss-signal protoype
+![20260113_135652](https://github.com/user-attachments/assets/f9a4629b-1903-4195-acb1-011b8217b73f)
+
+
+## transconductance amplifier schematic (concept)
+<img width="521" height="297" alt="image" src="https://github.com/user-attachments/assets/e8a29d85-6178-4eaf-80a7-4b89953fd3d5" />
+
+`R = Vctrl/I`
+Using DAC on Arduino nano IoT 33, scale 0-800, Vmax ~ 2.3 V, Imax = 0.020 A <br>
+R = 2.3/0.02 = 115 ohm -> dropped down to 100 ohm and limited in software.
+
+
+
+
+<img width="540" height="405" alt="540x405-3584811230" src="https://github.com/user-attachments/assets/78bec008-e065-4943-8b2d-e98dafc97669" />
+
+
 Tested & working with 358C Op-Amp
 
 <img width="1252" height="1028" alt="387247913-5acca359-772f-4544-8e65-be09f5d36002" src="https://github.com/user-attachments/assets/d491c50a-6f13-4eed-be16-f9073be57452" />
